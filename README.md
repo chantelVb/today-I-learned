@@ -1,2 +1,2 @@
 # today-I-learned
-Collection of Today I Learned
+What did I learn today?
