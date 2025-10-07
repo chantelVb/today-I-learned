@@ -4,7 +4,7 @@ This is my collection of short notes on things I’ve learned as I grow as a sof
 Inspired by the [TIL concept](https://github.com/jbranchaud/til).
 
 ## Categories
-- [JavaScript](./javascript)
+- [JavaScript](https://github.com/chantelVb/today-I-learned/tree/JavaScript))
 - [React](./react)
 - [CSS](./css)
 - [Node](./node)
