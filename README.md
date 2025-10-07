@@ -5,10 +5,10 @@ Inspired by the [TIL concept](https://github.com/jbranchaud/til).
 
 ## Categories
 - [JavaScript](https://github.com/chantelVb/today-I-learned/tree/JavaScript)
-- [React](./react)
-- [CSS](./css)
-- [Node](./node)
-- [Product / UX](./product)
+- [React](https://github.com/chantelVb/today-I-learned/tree/React)
+- [CSS](https://github.com/chantelVb/today-I-learned/tree/CSS)
+- [Node](https://github.com/chantelVb/today-I-learned/tree/Node)
+- [Product / UX](https://github.com/chantelVb/today-I-learned/tree/Product)
 
 ---
 
