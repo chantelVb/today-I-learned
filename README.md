@@ -1,3 +1,5 @@
 # today-I-learned (TIL)
 
-# Algorithms and Data Structures
+## JavaScript
+
+- [Algorithms and Data Structures](https://github.com/chantelVb/today-I-learned/tree/Algorithms-and-Data-Structures)
